@@ -1,8 +1,10 @@
 Hi there, I'm Binura Thiranjaya! 👋
 
-👨‍💻 About Me
+```👨‍💻 About Me
 🔭 I’m currently working as a Software Engineer at Nippon Paint Lanka
+
 🌱 I’m currently learning ASP.NET,MERN Stack
+
 💬 Ask me about Coding
 📫 How to reach me: 
 Email:bt.madoluwage@gmail.com
