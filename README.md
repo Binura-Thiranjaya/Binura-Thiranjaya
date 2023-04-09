@@ -1,10 +1,19 @@
-- 👋 Hi, I’m @BinuraThiranjaya1
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+Hi there, I'm Binura Thiranjaya! 👋
 
-<!---
-BinuraThiranjaya1/BinuraThiranjaya1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+👨‍💻 About Me
+🔭 I’m currently working as a Software Engineer at Nippon Paint Lanka
+🌱 I’m currently learning ASP.NET,MERN Stack
+💬 Ask me about Coding
+📫 How to reach me: 
+Email:bt.madoluwage@gmail.com
+LinkedIn:https://www.linkedin.com/in/binura-thiranjaya-83870b219/
+😄 Pronouns: He/Him
+
+🚀 Skills
+Languages: JS, C#, PHP
+Frameworks: React Js, Node Js, ASP.NET
+Databases: MS Sql, Mongo DB, My Sql
+
+Soft Skills: Communication, Teamwork, Problem-solving
+📊 GitHub Stats
+Your GitHub stats
