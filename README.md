@@ -32,4 +32,7 @@ Welcome to my GitHub profile! I'm Binura Thiranjaya, a passionate Software Engin
 - Teamwork
 - Problem-solving
 
+![GitHub commit activity](https://img.shields.io/github/commit-activity/m/binurathiranjaya?style=flat-square)
+![GitHub repositories](https://img.shields.io/github/repos/binurathiranjaya?style=flat-square)
+
 Feel free to explore my repositories and connect with me on LinkedIn. Let's code and learn together!
